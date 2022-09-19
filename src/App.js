@@ -30,13 +30,9 @@ function App() {
               <div className='login_button'>
                 <button>Login</button>
               </div>
-
-              
                 <p className='link'>
                   <a href='#'>Forgot password</a> or <a href='#'>Sign-up</a>
-                </p>
-              
-                
+                </p>  
           </div> 
       </div>
       </div>
